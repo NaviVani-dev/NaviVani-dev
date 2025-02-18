@@ -5,6 +5,7 @@
 - 📫 How to reach me: My Twitter!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I wanna make a really famous game
+- i need to work on this readme, maybe later
 
 <!---
 NaviVani-dev/NaviVani-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
